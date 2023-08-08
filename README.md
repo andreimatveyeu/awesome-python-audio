@@ -4,14 +4,21 @@ A curated list of Python tools, libraries, and resources for audio and music pro
 
 ## Analysis and Visualization
 
+- [aubio](https://github.com/aubio/aubio): a library for audio and music analysis 
+- [audio-fingerprint-identifying-python](https://github.com/itspoma/audio-fingerprint-identifying-python): The Shazam-similar app, that can identify the song using audio fingerprints & spectrum analysis and Fast Fourier transform 
+- [audioFlux](https://github.com/libAudioFlux/audioFlux): A library for audio and music analysis, feature extraction. 
 - [AudioLazy](https://github.com/danilobellini/audiolazy): Expressive digital signal processing (DSP) package for Python
+- [AudioOwl](https://github.com/dodiku/AudioOwl): Fast and simple music and audio analysis using RNN in Python
+- [BregmanToolkit](https://github.com/bregmanstudio/BregmanToolkit): Audio and Music Analysis and Synthesis in Python 
 - [Essentia](https://github.com/MTG/essentia): C++ library for audio and music analysis, description and synthesis, including Python bindings
 - [freesound-python](https://github.com/MTG/freesound-python): Freesound API wrapper to retrieve information and analysis descriptors
 - [librosa](https://github.com/librosa/librosa): Python package for music and audio analysis
 - [Madmom](https://github.com/CPJKU/madmom): Madmom is an audio signal processing library written in Python with a strong focus on music information retrieval (MIR) tasks.
 - [mir_eval](https://github.com/craffel/mir_eval): Evaluation functions for music/audio information retrieval/signal processing algorithms. 
+- [paura](https://github.com/tyiannak/paura): Python AUdio Recording and Analysis (paura) 
 - [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis): Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications 
 - [Pyo](https://github.com/belangeo/pyo): Python DSP module with advanced analysis functionalities
+- [Realtime_PyAudio_FFT](https://github.com/aiXander/Realtime_PyAudio_FFT): Realtime audio analysis in Python, using PyAudio and Numpy to extract and visualize FFT features from streaming audio. 
 - [scipy.signal](https://docs.scipy.org/doc/scipy/reference/signal.html): Signal processing routines for SciPy
 - [Spleeter](https://github.com/deezer/spleeter): Deezer source separation library including pretrained models. 
 - [timeside](https://github.com/Parisson/TimeSide): TimeSide is a Python framework enabling low and high level audio analysis, imaging, transcoding, streaming and labelling.
@@ -111,5 +118,4 @@ A curated list of Python tools, libraries, and resources for audio and music pro
 - [Python-audio](https://github.com/mgeier/python-audio): Jupyter notebooks about audio signal processing with Python
 - [Python-musical](https://github.com/wybiral/python-musical): Python module for procedural music creation. 
 - [WaveGAN](https://github.com/chrisdonahue/wavegan): Generative model for raw audio
-
 

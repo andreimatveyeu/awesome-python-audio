@@ -12,7 +12,8 @@ def main():
         for idx, row in _df.iterrows():
             out += f"- [{row.name}]({row.url}): {row.description}\n"
         out += "\n"
-    print(out)
+    with open("README.md", "w") as outf:
+        outf.write(out)
 
 if __name__ == "__main__":
     main()

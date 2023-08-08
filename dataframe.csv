@@ -1,12 +1,19 @@
 name,description,category,url
+aubio,a library for audio and music analysis ,Analysis and Visualization,https://github.com/aubio/aubio
+audio-fingerprint-identifying-python,"The Shazam-similar app, that can identify the song using audio fingerprints & spectrum analysis and Fast Fourier transform ",Analysis and Visualization,https://github.com/itspoma/audio-fingerprint-identifying-python
+audioFlux,"A library for audio and music analysis, feature extraction. ",Analysis and Visualization,https://github.com/libAudioFlux/audioFlux
 AudioLazy,Expressive digital signal processing (DSP) package for Python,Analysis and Visualization,https://github.com/danilobellini/audiolazy
+AudioOwl,Fast and simple music and audio analysis using RNN in Python,Analysis and Visualization,https://github.com/dodiku/AudioOwl
+BregmanToolkit,Audio and Music Analysis and Synthesis in Python ,Analysis and Visualization,https://github.com/bregmanstudio/BregmanToolkit
 Essentia,"C++ library for audio and music analysis, description and synthesis, including Python bindings",Analysis and Visualization,https://github.com/MTG/essentia
 freesound-python,Freesound API wrapper to retrieve information and analysis descriptors,Analysis and Visualization,https://github.com/MTG/freesound-python
 librosa,Python package for music and audio analysis,Analysis and Visualization,https://github.com/librosa/librosa
 Madmom,Madmom is an audio signal processing library written in Python with a strong focus on music information retrieval (MIR) tasks.,Analysis and Visualization,https://github.com/CPJKU/madmom
 mir_eval,Evaluation functions for music/audio information retrieval/signal processing algorithms. ,Analysis and Visualization,https://github.com/craffel/mir_eval
+paura,Python AUdio Recording and Analysis (paura) ,Analysis and Visualization,https://github.com/tyiannak/paura
 pyAudioAnalysis,"Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications ",Analysis and Visualization,https://github.com/tyiannak/pyAudioAnalysis
 Pyo,Python DSP module with advanced analysis functionalities,Analysis and Visualization,https://github.com/belangeo/pyo
+Realtime_PyAudio_FFT,"Realtime audio analysis in Python, using PyAudio and Numpy to extract and visualize FFT features from streaming audio. ",Analysis and Visualization,https://github.com/aiXander/Realtime_PyAudio_FFT
 scipy.signal,Signal processing routines for SciPy,Analysis and Visualization,https://docs.scipy.org/doc/scipy/reference/signal.html
 Spleeter,Deezer source separation library including pretrained models. ,Analysis and Visualization,https://github.com/deezer/spleeter
 timeside,"TimeSide is a Python framework enabling low and high level audio analysis, imaging, transcoding, streaming and labelling.",Analysis and Visualization,https://github.com/Parisson/TimeSide
