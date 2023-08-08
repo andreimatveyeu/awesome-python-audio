@@ -1,108 +1,108 @@
-name,description,category,url
-aubio,a library for audio and music analysis ,Analysis and Visualization,https://github.com/aubio/aubio
-audio-fingerprint-identifying-python,"The Shazam-similar app, that can identify the song using audio fingerprints & spectrum analysis and Fast Fourier transform ",Analysis and Visualization,https://github.com/itspoma/audio-fingerprint-identifying-python
-audioFlux,"A library for audio and music analysis, feature extraction. ",Analysis and Visualization,https://github.com/libAudioFlux/audioFlux
-AudioLazy,Expressive digital signal processing (DSP) package for Python,Analysis and Visualization,https://github.com/danilobellini/audiolazy
-AudioOwl,Fast and simple music and audio analysis using RNN in Python,Analysis and Visualization,https://github.com/dodiku/AudioOwl
-BregmanToolkit,Audio and Music Analysis and Synthesis in Python ,Analysis and Visualization,https://github.com/bregmanstudio/BregmanToolkit
-Essentia,"C++ library for audio and music analysis, description and synthesis, including Python bindings",Analysis and Visualization,https://github.com/MTG/essentia
-freesound-python,Freesound API wrapper to retrieve information and analysis descriptors,Analysis and Visualization,https://github.com/MTG/freesound-python
-librosa,Python package for music and audio analysis,Analysis and Visualization,https://github.com/librosa/librosa
-Madmom,Madmom is an audio signal processing library written in Python with a strong focus on music information retrieval (MIR) tasks.,Analysis and Visualization,https://github.com/CPJKU/madmom
-mir_eval,Evaluation functions for music/audio information retrieval/signal processing algorithms. ,Analysis and Visualization,https://github.com/craffel/mir_eval
-paura,Python AUdio Recording and Analysis (paura) ,Analysis and Visualization,https://github.com/tyiannak/paura
-pyAudioAnalysis,"Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications ",Analysis and Visualization,https://github.com/tyiannak/pyAudioAnalysis
-Pyo,Python DSP module with advanced analysis functionalities,Analysis and Visualization,https://github.com/belangeo/pyo
-Realtime_PyAudio_FFT,"Realtime audio analysis in Python, using PyAudio and Numpy to extract and visualize FFT features from streaming audio. ",Analysis and Visualization,https://github.com/aiXander/Realtime_PyAudio_FFT
-scipy.signal,Signal processing routines for SciPy,Analysis and Visualization,https://docs.scipy.org/doc/scipy/reference/signal.html
-Spleeter,Deezer source separation library including pretrained models. ,Analysis and Visualization,https://github.com/deezer/spleeter
-timeside,"TimeSide is a Python framework enabling low and high level audio analysis, imaging, transcoding, streaming and labelling.",Analysis and Visualization,https://github.com/Parisson/TimeSide
-audiomentations,Audio data augmentation,Audio Manipulation,https://github.com/iver56/audiomentations
-audioread,Backend-agnostic decoding of sound files,Audio Manipulation,https://github.com/beetbox/audioread
-babycat,"An audio manipulation library for Rust, Python, WebAssembly, and C.",Audio Manipulation,https://github.com/babycat-io/babycat
-matchering,Open Source Audio Matching and Mastering,Audio Manipulation,https://github.com/sergree/matchering
-Matchering-cli,Simple Matchering 2.0 Command Line Application ,Audio Manipulation,https://github.com/sergree/matchering-cli
-noisereduce,Noise reduction using spectral gating in Python,Audio Manipulation,https://github.com/timsainb/noisereduce
-numpy & scipy.io.wavfile,Read/write and manipulate WAV files,Audio Manipulation,https://docs.scipy.org/doc/scipy/reference/io.html
-pedalboard,"ython library for working with audio: reading, writing, rendering, adding effects, and more.",Audio Manipulation,https://github.com/spotify/pedalboard
-pyAudioProcessing,"Audio feature extraction, classification, segmentation",Audio Manipulation,https://github.com/jsingh811/pyAudioProcessing
-pydsm,Toolkit for sound manipulation using Deep Learning,Audio Manipulation,https://github.com/google-research/sound-separation
-PyDub,Manipulate audio with a simple and easy high level interface,Audio Manipulation,https://github.com/jiaaro/pydub
-PythonAudioEffects,"A Python library that can apply: darth vader, echo, radio, robotic, and ghost effects to audio samples. ",Audio Manipulation,https://github.com/nxbyte/PythonAudioEffects
-pytorch/audio,"Data manipulation and transformation for audio signal processing, powered by PyTorch",Audio Manipulation,https://github.com/pytorch/audio
-simpleaudio,Playback and recording functionality,Audio Manipulation,https://github.com/hamiltron/py-simple-audio
-SoundDevice,Play and record audio without resorting to C libraries,Audio Manipulation,https://github.com/spatialaudio/python-sounddevice
-soundfile,Read and write sound files,Audio Manipulation,https://github.com/bastibe/SoundFile
-SoX,"Python wrapper for SoX, Swiss Army knife of sound processing",Audio Manipulation,https://github.com/rabitt/pysox
-wave,Read and write WAV files (standard library module),Audio Manipulation,https://docs.python.org/3/library/wave.html
-AudioSet,Large-scale dataset of manually annotated audio events,Datasets: Audio,https://research.google.com/audioset/
-Birdsong,Dataset of annotated bird songs and calls,Datasets: Audio,https://www.kaggle.com/c/birdsong-recognition
-ESC-50,Environmental sound classification dataset,Datasets: Audio,https://github.com/karolpiczak/ESC-50
-Free Spoken Digit Dataset,Dataset of spoken digits in English,Datasets: Audio,https://github.com/Jakobovski/free-spoken-digit-dataset
-Freesound Dataset,A free audio dataset of spoken digits. Think MNIST for audio. ,Datasets: Audio,https://datasets.freesound.org/fsd/
-RAVDESS,Audio-visual dataset of emotional speech and song,Datasets: Audio,https://zenodo.org/record/1188976
-Speech Commands,Dataset for speech command recognition,Datasets: Audio,https://ai.googleblog.com/2017/08/launching-speech-commands-dataset.html
-TIDIGITS,Spoken digit dataset for speech recognition,Datasets: Audio,https://catalog.ldc.upenn.edu/LDC93S10
-UrbanSound8K,"8,000 urban sound samples categorized into 10 classes",Datasets: Audio,https://urbansounddataset.weebly.com/urbansound8k.html
-VCTK,Multispeaker speech dataset for voice technologies,Datasets: Audio,https://datashare.ed.ac.uk/handle/10283/3443
-VoxCeleb,Large-scale speaker identification dataset,Datasets: Audio,http://www.robots.ox.ac.uk/~vgg/data/voxceleb/
-AcousticBrainz,Dataset for computational music analysis,Datasets: Music,https://acousticbrainz.org/download
-Beatport EDM Key,Dataset for electronic dance music tracks and their musical key,Datasets: Music,https://zenodo.org/record/1101082
-DALI,Dataset of lyrics and audio with time alignments,Datasets: Music,https://github.com/gabolsgabs/DALI
-DEAM,MediaEval Affective Impact of Movies Task dataset for music emotion recognition,Datasets: Music,https://cvml.unige.ch/databases/DEAM/
-FMA,Free Music Archive dataset for music analysis,Datasets: Music,https://github.com/mdeff/fma
-IRMAS,Instrument recognition in musical audio signals,Datasets: Music,https://www.upf.edu/web/mtg/irmas
-Jamendo Audio Tagging,Dataset for multi-label audio tagging,Datasets: Music,https://github.com/MTG/mtg-jamendo-dataset
-MAESTRO,MIDI dataset for training music generation models,Datasets: Music,https://magenta.tensorflow.org/datasets/maestro
-MagnaTagATune,Dataset for music annotation and audio tagging,Datasets: Music,http://mirg.city.ac.uk/codeapps/the-magnatagatune-dataset
-MedleyDB,Dataset for multi-track mixing,Datasets: Music,https://medleydb.weebly.com/
-Musdb18,Dataset for music source separation,Datasets: Music,https://sigsep.github.io/datasets/musdb.html
-NSynth,Large-scale and high-quality dataset of annotated musical notes,Datasets: Music,https://magenta.tensorflow.org/datasets/nsynth
-Open MIC,Open Music Instrument Classification challenge dataset,Datasets: Music,https://research.atspotify.com/publications/openmic-2018-an-open-dataset-for-multiple-instrument-recognition/
-RWC Music Database,"Musical instrument sound, genre, rhythm databases",Datasets: Music,https://staff.aist.go.jp/m.goto/RWC-MDB/
-The Million Song Dataset,Massive collection of audio features and metadata,Datasets: Music,http://millionsongdataset.com/
-Abjad,Abjad is a Python API for building LilyPond files. Use Abjad to make PDFs of music notation,Music Theory and Composition,https://github.com/Abjad/abjad
-AthenaCL,"AthenaCL is an algorithmic composition tool by Christopher Ariza. This is a Python 3 fork of it, since the original codebase is no longer maintained.",Music Theory and Composition,https://github.com/ales-tsurko/athenaCL
-maelzel,A framework for computer music in python ,Music Theory and Composition,https://github.com/gesellkammer/maelzel
-MIDIUtil,A pure Python library for creating multi-track MIDI files,Music Theory and Composition,https://github.com/MarkCWirt/MIDIUtil
-mingus,Advanced music theory and notation package,Music Theory and Composition,https://github.com/bspaans/python-mingus
-music21,Toolkit for computer-aided musical analysis,Music Theory and Composition,https://github.com/cuthbertLab/music21
-Musical-scales,Retrieve a scale based on a given mode and starting note.,Music Theory and Composition,https://github.com/hmillerbakewell/musical-scales
-MusicMaker,A Music Maker using Python - Audio Description Language ,Music Theory and Composition,https://github.com/KausikN/MusicMaker
-MusPy,Toolkit for symbolic music generation,Music Theory and Composition,https://github.com/salu133445/muspy
-pychord,Handle and transform musical chords,Music Theory and Composition,https://github.com/yuma-m/pychord
-pyHarmonySearch,Harmony search algorithm for musical composition,Music Theory and Composition,https://github.com/lanl/pyHarmonySearch
-PyTheory,Toolset for music theory concepts like scales and chords,Music Theory and Composition,https://github.com/kennethreitz/pytheory
-scamp,a Suite in Python for Computer-Assisted Music,Music Theory and Composition,https://github.com/MarcTheSpark/scamp
-audioread,cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding for Python,Playback and Streaming,https://github.com/beetbox/audioread
-audiostream,Audio API for streaming raw data to speakers ,Playback and Streaming,https://github.com/kivy/audiostream
-beets,music library manager and MusicBrainz tagger ,Playback and Streaming,https://github.com/beetbox/beets
-discord.py,"Python wrapper for the Discord API, including music streaming capabilities",Playback and Streaming,https://github.com/Rapptz/discord.py
-Mopidy,Extensible music server written in Python,Playback and Streaming,https://github.com/mopidy/mopidy
-Mopidy-YouTube,Mopidy extension for playing music from YouTube,Playback and Streaming,https://github.com/natumbri/mopidy-youtube
-mpv,Python interface to MPV for audio and video playback,Playback and Streaming,https://github.com/jaseg/python-mpv
-MusicBot,Discord music bot written in Python,Playback and Streaming,https://github.com/just-some-bots/MusicBot
-pyAV,Pythonic bindings for FFmpeg's libraries for audio and video processing,Playback and Streaming,https://github.com/mikeboers/PyAV
-pygame.mixer,Pygame module for sound loading and playback,Playback and Streaming,https://github.com/pygame/pygame
-pyglet,Cross-platform windowing and multimedia library,Playback and Streaming,https://github.com/pyglet/pyglet
-pyradio,Command line internet radio player,Playback and Streaming,https://github.com/coderholic/pyradio
-Python-SoundDevice,Play and Record Sound with Python,Playback and Streaming,https://github.com/spatialaudio/python-sounddevice
-Spotipy,Python client for the Spotify Web API,Playback and Streaming,https://github.com/plamere/spotipy
-Audioguide,Program for concatenative sound synthesis,Synthesis and Generation,https://github.com/benhackbarth/audioguide
-ctcsound,Python Bindings for Csound using ctypes. Can be used from python2.x and python3.x as well. ,Synthesis and Generation,https://github.com/csound/ctcsound
-FoxDot,Python-based live coding environment for sound synthesis,Synthesis and Generation,https://github.com/Qirky/FoxDot
-Magenta,"Machine learning for the creative process, including music synthesis",Synthesis and Generation,https://github.com/magenta/magenta
-Mido,MIDI objects for Python,Synthesis and Generation,https://github.com/mido/mido
-musicautobot,Music generation with transformers,Synthesis and Generation,https://github.com/bearpelican/musicautobot
-Nsynth,Neural audio synthesis model,Synthesis and Generation,https://github.com/tensorflow/magenta/tree/master/magenta/models/nsynth
-Pippi,Computer music composition library,Synthesis and Generation,https://github.com/hecanjog/pippi
-pyfluidsynth,"Python bindings for FluidSynth, a software synthesizer for audio signals from SoundFonts",Synthesis and Generation,https://github.com/nwhitehead/pyfluidsynth
-PySynth,Simple music synthesizer written in Python,Synthesis and Generation,https://github.com/mdoege/PySynth
-Python-audio,Jupyter notebooks about audio signal processing with Python,Synthesis and Generation,https://github.com/mgeier/python-audio
-Python-musical,Python module for procedural music creation. ,Synthesis and Generation,https://github.com/wybiral/python-musical
-WaveGAN,Generative model for raw audio,Synthesis and Generation,https://github.com/chrisdonahue/wavegan
-A Simple Guide to Audio Manipulation with Pydub for Musicians,"Covers merging tracks, introducing effects, and managing silences through simple code instructions.",Tutorials,https://www.omnitonal.com/a-simple-guide-to-audio-manipulation-with-pydub-for-musicians/
-An introduction to libROSA for working with audio,"Advanced librosa tutorial covering timeline plotting, spectrograms, time-stretching, remixing.",Tutorials,https://iq.opengenus.org/introduction-to-librosa/
-Introduction to librosa: A Powerful Tool for Audio Engineers,,Tutorials,https://www.omnitonal.com/introduction-to-librosa-a-powerful-tool-for-audio-engineers/
-PyDub: Working with wav files in Python,This article demonstrates installation and various PyDub operations with code examples.,Tutorials,https://www.geeksforgeeks.org/working-with-wav-files-in-python-using-pydub/
-Visualizing Sounds Using Librosa Machine Learning Library!,Covers graph creation using librosa and matplotlib,Tutorials,https://www.analyticsvidhya.com/blog/2021/06/visualizing-sounds-librosa/
+name,description,category,subcategory,url
+aubio,a library for audio and music analysis ,Analysis and Visualization,,https://github.com/aubio/aubio
+audio-fingerprint-identifying-python,"The Shazam-similar app, that can identify the song using audio fingerprints & spectrum analysis and Fast Fourier transform ",Analysis and Visualization,,https://github.com/itspoma/audio-fingerprint-identifying-python
+audioFlux,"A library for audio and music analysis, feature extraction. ",Analysis and Visualization,,https://github.com/libAudioFlux/audioFlux
+AudioLazy,Expressive digital signal processing (DSP) package for Python,Analysis and Visualization,,https://github.com/danilobellini/audiolazy
+AudioOwl,Fast and simple music and audio analysis using RNN in Python,Analysis and Visualization,,https://github.com/dodiku/AudioOwl
+BregmanToolkit,Audio and Music Analysis and Synthesis in Python ,Analysis and Visualization,,https://github.com/bregmanstudio/BregmanToolkit
+Essentia,"C++ library for audio and music analysis, description and synthesis, including Python bindings",Analysis and Visualization,,https://github.com/MTG/essentia
+freesound-python,Freesound API wrapper to retrieve information and analysis descriptors,Analysis and Visualization,,https://github.com/MTG/freesound-python
+librosa,Python package for music and audio analysis,Analysis and Visualization,,https://github.com/librosa/librosa
+Madmom,Madmom is an audio signal processing library written in Python with a strong focus on music information retrieval (MIR) tasks.,Analysis and Visualization,,https://github.com/CPJKU/madmom
+mir_eval,Evaluation functions for music/audio information retrieval/signal processing algorithms. ,Analysis and Visualization,,https://github.com/craffel/mir_eval
+paura,Python AUdio Recording and Analysis (paura) ,Analysis and Visualization,,https://github.com/tyiannak/paura
+pyAudioAnalysis,"Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications ",Analysis and Visualization,,https://github.com/tyiannak/pyAudioAnalysis
+Pyo,Python DSP module with advanced analysis functionalities,Analysis and Visualization,,https://github.com/belangeo/pyo
+Realtime_PyAudio_FFT,"Realtime audio analysis in Python, using PyAudio and Numpy to extract and visualize FFT features from streaming audio. ",Analysis and Visualization,,https://github.com/aiXander/Realtime_PyAudio_FFT
+scipy.signal,Signal processing routines for SciPy,Analysis and Visualization,,https://docs.scipy.org/doc/scipy/reference/signal.html
+Spleeter,Deezer source separation library including pretrained models. ,Analysis and Visualization,,https://github.com/deezer/spleeter
+timeside,"TimeSide is a Python framework enabling low and high level audio analysis, imaging, transcoding, streaming and labelling.",Analysis and Visualization,,https://github.com/Parisson/TimeSide
+audiomentations,Audio data augmentation,Audio Manipulation,,https://github.com/iver56/audiomentations
+audioread,Backend-agnostic decoding of sound files,Audio Manipulation,,https://github.com/beetbox/audioread
+babycat,"An audio manipulation library for Rust, Python, WebAssembly, and C.",Audio Manipulation,,https://github.com/babycat-io/babycat
+matchering,Open Source Audio Matching and Mastering,Audio Manipulation,,https://github.com/sergree/matchering
+Matchering-cli,Simple Matchering 2.0 Command Line Application ,Audio Manipulation,,https://github.com/sergree/matchering-cli
+noisereduce,Noise reduction using spectral gating in Python,Audio Manipulation,,https://github.com/timsainb/noisereduce
+numpy & scipy.io.wavfile,Read/write and manipulate WAV files,Audio Manipulation,,https://docs.scipy.org/doc/scipy/reference/io.html
+pedalboard,"ython library for working with audio: reading, writing, rendering, adding effects, and more.",Audio Manipulation,,https://github.com/spotify/pedalboard
+pyAudioProcessing,"Audio feature extraction, classification, segmentation",Audio Manipulation,,https://github.com/jsingh811/pyAudioProcessing
+pydsm,Toolkit for sound manipulation using Deep Learning,Audio Manipulation,,https://github.com/google-research/sound-separation
+PyDub,Manipulate audio with a simple and easy high level interface,Audio Manipulation,,https://github.com/jiaaro/pydub
+PythonAudioEffects,"A Python library that can apply: darth vader, echo, radio, robotic, and ghost effects to audio samples. ",Audio Manipulation,,https://github.com/nxbyte/PythonAudioEffects
+pytorch/audio,"Data manipulation and transformation for audio signal processing, powered by PyTorch",Audio Manipulation,,https://github.com/pytorch/audio
+simpleaudio,Playback and recording functionality,Audio Manipulation,,https://github.com/hamiltron/py-simple-audio
+SoundDevice,Play and record audio without resorting to C libraries,Audio Manipulation,,https://github.com/spatialaudio/python-sounddevice
+soundfile,Read and write sound files,Audio Manipulation,,https://github.com/bastibe/SoundFile
+SoX,"Python wrapper for SoX, Swiss Army knife of sound processing",Audio Manipulation,,https://github.com/rabitt/pysox
+wave,Read and write WAV files (standard library module),Audio Manipulation,,https://docs.python.org/3/library/wave.html
+AudioSet,Large-scale dataset of manually annotated audio events,Datasets,Audio,https://research.google.com/audioset/
+Birdsong,Dataset of annotated bird songs and calls,Datasets,Audio,https://www.kaggle.com/c/birdsong-recognition
+ESC-50,Environmental sound classification dataset,Datasets,Audio,https://github.com/karolpiczak/ESC-50
+Free Spoken Digit Dataset,Dataset of spoken digits in English,Datasets,Audio,https://github.com/Jakobovski/free-spoken-digit-dataset
+Freesound Dataset,A free audio dataset of spoken digits. Think MNIST for audio. ,Datasets,Audio,https://datasets.freesound.org/fsd/
+RAVDESS,Audio-visual dataset of emotional speech and song,Datasets,Audio,https://zenodo.org/record/1188976
+Speech Commands,Dataset for speech command recognition,Datasets,Audio,https://ai.googleblog.com/2017/08/launching-speech-commands-dataset.html
+TIDIGITS,Spoken digit dataset for speech recognition,Datasets,Audio,https://catalog.ldc.upenn.edu/LDC93S10
+UrbanSound8K,"8,000 urban sound samples categorized into 10 classes",Datasets,Audio,https://urbansounddataset.weebly.com/urbansound8k.html
+VCTK,Multispeaker speech dataset for voice technologies,Datasets,Audio,https://datashare.ed.ac.uk/handle/10283/3443
+VoxCeleb,Large-scale speaker identification dataset,Datasets,Audio,http://www.robots.ox.ac.uk/~vgg/data/voxceleb/
+AcousticBrainz,Dataset for computational music analysis,Datasets,Music,https://acousticbrainz.org/download
+Beatport EDM Key,Dataset for electronic dance music tracks and their musical key,Datasets,Music,https://zenodo.org/record/1101082
+DALI,Dataset of lyrics and audio with time alignments,Datasets,Music,https://github.com/gabolsgabs/DALI
+DEAM,MediaEval Affective Impact of Movies Task dataset for music emotion recognition,Datasets,Music,https://cvml.unige.ch/databases/DEAM/
+FMA,Free Music Archive dataset for music analysis,Datasets,Music,https://github.com/mdeff/fma
+IRMAS,Instrument recognition in musical audio signals,Datasets,Music,https://www.upf.edu/web/mtg/irmas
+Jamendo Audio Tagging,Dataset for multi-label audio tagging,Datasets,Music,https://github.com/MTG/mtg-jamendo-dataset
+MAESTRO,MIDI dataset for training music generation models,Datasets,Music,https://magenta.tensorflow.org/datasets/maestro
+MagnaTagATune,Dataset for music annotation and audio tagging,Datasets,Music,http://mirg.city.ac.uk/codeapps/the-magnatagatune-dataset
+MedleyDB,Dataset for multi-track mixing,Datasets,Music,https://medleydb.weebly.com/
+Musdb18,Dataset for music source separation,Datasets,Music,https://sigsep.github.io/datasets/musdb.html
+NSynth,Large-scale and high-quality dataset of annotated musical notes,Datasets,Music,https://magenta.tensorflow.org/datasets/nsynth
+Open MIC,Open Music Instrument Classification challenge dataset,Datasets,Music,https://research.atspotify.com/publications/openmic-2018-an-open-dataset-for-multiple-instrument-recognition/
+RWC Music Database,"Musical instrument sound, genre, rhythm databases",Datasets,Music,https://staff.aist.go.jp/m.goto/RWC-MDB/
+The Million Song Dataset,Massive collection of audio features and metadata,Datasets,Music,http://millionsongdataset.com/
+Abjad,Abjad is a Python API for building LilyPond files. Use Abjad to make PDFs of music notation,Music Theory and Composition,,https://github.com/Abjad/abjad
+AthenaCL,"AthenaCL is an algorithmic composition tool by Christopher Ariza. This is a Python 3 fork of it, since the original codebase is no longer maintained.",Music Theory and Composition,,https://github.com/ales-tsurko/athenaCL
+maelzel,A framework for computer music in python ,Music Theory and Composition,,https://github.com/gesellkammer/maelzel
+MIDIUtil,A pure Python library for creating multi-track MIDI files,Music Theory and Composition,,https://github.com/MarkCWirt/MIDIUtil
+mingus,Advanced music theory and notation package,Music Theory and Composition,,https://github.com/bspaans/python-mingus
+music21,Toolkit for computer-aided musical analysis,Music Theory and Composition,,https://github.com/cuthbertLab/music21
+Musical-scales,Retrieve a scale based on a given mode and starting note.,Music Theory and Composition,,https://github.com/hmillerbakewell/musical-scales
+MusicMaker,A Music Maker using Python - Audio Description Language ,Music Theory and Composition,,https://github.com/KausikN/MusicMaker
+MusPy,Toolkit for symbolic music generation,Music Theory and Composition,,https://github.com/salu133445/muspy
+pychord,Handle and transform musical chords,Music Theory and Composition,,https://github.com/yuma-m/pychord
+pyHarmonySearch,Harmony search algorithm for musical composition,Music Theory and Composition,,https://github.com/lanl/pyHarmonySearch
+PyTheory,Toolset for music theory concepts like scales and chords,Music Theory and Composition,,https://github.com/kennethreitz/pytheory
+scamp,a Suite in Python for Computer-Assisted Music,Music Theory and Composition,,https://github.com/MarcTheSpark/scamp
+audioread,cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding for Python,Playback and Streaming,,https://github.com/beetbox/audioread
+audiostream,Audio API for streaming raw data to speakers ,Playback and Streaming,,https://github.com/kivy/audiostream
+beets,music library manager and MusicBrainz tagger ,Playback and Streaming,,https://github.com/beetbox/beets
+discord.py,"Python wrapper for the Discord API, including music streaming capabilities",Playback and Streaming,,https://github.com/Rapptz/discord.py
+Mopidy,Extensible music server written in Python,Playback and Streaming,,https://github.com/mopidy/mopidy
+Mopidy-YouTube,Mopidy extension for playing music from YouTube,Playback and Streaming,,https://github.com/natumbri/mopidy-youtube
+mpv,Python interface to MPV for audio and video playback,Playback and Streaming,,https://github.com/jaseg/python-mpv
+MusicBot,Discord music bot written in Python,Playback and Streaming,,https://github.com/just-some-bots/MusicBot
+pyAV,Pythonic bindings for FFmpeg's libraries for audio and video processing,Playback and Streaming,,https://github.com/mikeboers/PyAV
+pygame.mixer,Pygame module for sound loading and playback,Playback and Streaming,,https://github.com/pygame/pygame
+pyglet,Cross-platform windowing and multimedia library,Playback and Streaming,,https://github.com/pyglet/pyglet
+pyradio,Command line internet radio player,Playback and Streaming,,https://github.com/coderholic/pyradio
+Python-SoundDevice,Play and Record Sound with Python,Playback and Streaming,,https://github.com/spatialaudio/python-sounddevice
+Spotipy,Python client for the Spotify Web API,Playback and Streaming,,https://github.com/plamere/spotipy
+Audioguide,Program for concatenative sound synthesis,Synthesis and Generation,,https://github.com/benhackbarth/audioguide
+ctcsound,Python Bindings for Csound using ctypes. Can be used from python2.x and python3.x as well. ,Synthesis and Generation,,https://github.com/csound/ctcsound
+FoxDot,Python-based live coding environment for sound synthesis,Synthesis and Generation,,https://github.com/Qirky/FoxDot
+Magenta,"Machine learning for the creative process, including music synthesis",Synthesis and Generation,,https://github.com/magenta/magenta
+Mido,MIDI objects for Python,Synthesis and Generation,,https://github.com/mido/mido
+musicautobot,Music generation with transformers,Synthesis and Generation,,https://github.com/bearpelican/musicautobot
+Nsynth,Neural audio synthesis model,Synthesis and Generation,,https://github.com/tensorflow/magenta/tree/master/magenta/models/nsynth
+Pippi,Computer music composition library,Synthesis and Generation,,https://github.com/hecanjog/pippi
+pyfluidsynth,"Python bindings for FluidSynth, a software synthesizer for audio signals from SoundFonts",Synthesis and Generation,,https://github.com/nwhitehead/pyfluidsynth
+PySynth,Simple music synthesizer written in Python,Synthesis and Generation,,https://github.com/mdoege/PySynth
+Python-audio,Jupyter notebooks about audio signal processing with Python,Synthesis and Generation,,https://github.com/mgeier/python-audio
+Python-musical,Python module for procedural music creation. ,Synthesis and Generation,,https://github.com/wybiral/python-musical
+WaveGAN,Generative model for raw audio,Synthesis and Generation,,https://github.com/chrisdonahue/wavegan
+A Simple Guide to Audio Manipulation with Pydub for Musicians,"Covers merging tracks, introducing effects, and managing silences through simple code instructions.",Tutorials,PyDub,https://www.omnitonal.com/a-simple-guide-to-audio-manipulation-with-pydub-for-musicians/
+An introduction to libROSA for working with audio,"Advanced librosa tutorial covering timeline plotting, spectrograms, time-stretching, remixing.",Tutorials,librosa,https://iq.opengenus.org/introduction-to-librosa/
+Introduction to librosa: A Powerful Tool for Audio Engineers,,Tutorials,librosa,https://www.omnitonal.com/introduction-to-librosa-a-powerful-tool-for-audio-engineers/
+PyDub: Working with wav files in Python,This article demonstrates installation and various PyDub operations with code examples.,Tutorials,PyDub,https://www.geeksforgeeks.org/working-with-wav-files-in-python-using-pydub/
+Visualizing Sounds Using Librosa Machine Learning Library!,Covers graph creation using librosa and matplotlib,Tutorials,librosa,https://www.analyticsvidhya.com/blog/2021/06/visualizing-sounds-librosa/

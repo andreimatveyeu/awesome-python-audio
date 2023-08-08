@@ -44,7 +44,9 @@ A curated list of Python tools, libraries, and resources for audio and music pro
 - [SoX](https://github.com/rabitt/pysox): Python wrapper for SoX, Swiss Army knife of sound processing
 - [wave](https://docs.python.org/3/library/wave.html): Read and write WAV files (standard library module)
 
-## Datasets: Audio
+## Datasets
+
+### Audio
 
 - [AudioSet](https://research.google.com/audioset/): Large-scale dataset of manually annotated audio events
 - [Birdsong](https://www.kaggle.com/c/birdsong-recognition): Dataset of annotated bird songs and calls
@@ -58,7 +60,7 @@ A curated list of Python tools, libraries, and resources for audio and music pro
 - [VCTK](https://datashare.ed.ac.uk/handle/10283/3443): Multispeaker speech dataset for voice technologies
 - [VoxCeleb](http://www.robots.ox.ac.uk/~vgg/data/voxceleb/): Large-scale speaker identification dataset
 
-## Datasets: Music
+### Music
 
 - [AcousticBrainz](https://acousticbrainz.org/download): Dataset for computational music analysis
 - [Beatport EDM Key](https://zenodo.org/record/1101082): Dataset for electronic dance music tracks and their musical key
@@ -127,9 +129,14 @@ A curated list of Python tools, libraries, and resources for audio and music pro
 
 ## Tutorials
 
+### PyDub
+
 - [A Simple Guide to Audio Manipulation with Pydub for Musicians](https://www.omnitonal.com/a-simple-guide-to-audio-manipulation-with-pydub-for-musicians/): Covers merging tracks, introducing effects, and managing silences through simple code instructions.
-- [An introduction to libROSA for working with audio](https://iq.opengenus.org/introduction-to-librosa/): Advanced librosa tutorial covering timeline plotting, spectrograms, time-stretching, remixing.
-- [Introduction to librosa: A Powerful Tool for Audio Engineers](https://www.omnitonal.com/introduction-to-librosa-a-powerful-tool-for-audio-engineers/): nan
 - [PyDub: Working with wav files in Python](https://www.geeksforgeeks.org/working-with-wav-files-in-python-using-pydub/): This article demonstrates installation and various PyDub operations with code examples.
+
+### librosa
+
+- [An introduction to libROSA for working with audio](https://iq.opengenus.org/introduction-to-librosa/): Advanced librosa tutorial covering timeline plotting, spectrograms, time-stretching, remixing.
+- [Introduction to librosa: A Powerful Tool for Audio Engineers](https://www.omnitonal.com/introduction-to-librosa-a-powerful-tool-for-audio-engineers/): 
 - [Visualizing Sounds Using Librosa Machine Learning Library!](https://www.analyticsvidhya.com/blog/2021/06/visualizing-sounds-librosa/): Covers graph creation using librosa and matplotlib
 
