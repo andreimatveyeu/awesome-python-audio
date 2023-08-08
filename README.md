@@ -27,11 +27,17 @@ A curated list of Python tools, libraries, and resources for audio and music pro
 
 - [audiomentations](https://github.com/iver56/audiomentations): Audio data augmentation
 - [audioread](https://github.com/beetbox/audioread): Backend-agnostic decoding of sound files
+- [babycat](https://github.com/babycat-io/babycat): An audio manipulation library for Rust, Python, WebAssembly, and C.
+- [matchering](https://github.com/sergree/matchering): Open Source Audio Matching and Mastering
+- [Matchering-cli](https://github.com/sergree/matchering-cli): Simple Matchering 2.0 Command Line Application 
 - [noisereduce](https://github.com/timsainb/noisereduce): Noise reduction using spectral gating in Python
 - [numpy & scipy.io.wavfile](https://docs.scipy.org/doc/scipy/reference/io.html): Read/write and manipulate WAV files
+- [pedalboard](https://github.com/spotify/pedalboard): ython library for working with audio: reading, writing, rendering, adding effects, and more.
 - [pyAudioProcessing](https://github.com/jsingh811/pyAudioProcessing): Audio feature extraction, classification, segmentation
 - [pydsm](https://github.com/google-research/sound-separation): Toolkit for sound manipulation using Deep Learning
 - [PyDub](https://github.com/jiaaro/pydub): Manipulate audio with a simple and easy high level interface
+- [PythonAudioEffects](https://github.com/nxbyte/PythonAudioEffects): A Python library that can apply: darth vader, echo, radio, robotic, and ghost effects to audio samples. 
+- [pytorch/audio](https://github.com/pytorch/audio): Data manipulation and transformation for audio signal processing, powered by PyTorch
 - [simpleaudio](https://github.com/hamiltron/py-simple-audio): Playback and recording functionality
 - [SoundDevice](https://github.com/spatialaudio/python-sounddevice): Play and record audio without resorting to C libraries
 - [soundfile](https://github.com/bastibe/SoundFile): Read and write sound files

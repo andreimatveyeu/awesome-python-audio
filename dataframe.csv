@@ -19,11 +19,17 @@ Spleeter,Deezer source separation library including pretrained models. ,Analysis
 timeside,"TimeSide is a Python framework enabling low and high level audio analysis, imaging, transcoding, streaming and labelling.",Analysis and Visualization,https://github.com/Parisson/TimeSide
 audiomentations,Audio data augmentation,Audio Manipulation,https://github.com/iver56/audiomentations
 audioread,Backend-agnostic decoding of sound files,Audio Manipulation,https://github.com/beetbox/audioread
+babycat,"An audio manipulation library for Rust, Python, WebAssembly, and C.",Audio Manipulation,https://github.com/babycat-io/babycat
+matchering,Open Source Audio Matching and Mastering,Audio Manipulation,https://github.com/sergree/matchering
+Matchering-cli,Simple Matchering 2.0 Command Line Application ,Audio Manipulation,https://github.com/sergree/matchering-cli
 noisereduce,Noise reduction using spectral gating in Python,Audio Manipulation,https://github.com/timsainb/noisereduce
 numpy & scipy.io.wavfile,Read/write and manipulate WAV files,Audio Manipulation,https://docs.scipy.org/doc/scipy/reference/io.html
+pedalboard,"ython library for working with audio: reading, writing, rendering, adding effects, and more.",Audio Manipulation,https://github.com/spotify/pedalboard
 pyAudioProcessing,"Audio feature extraction, classification, segmentation",Audio Manipulation,https://github.com/jsingh811/pyAudioProcessing
 pydsm,Toolkit for sound manipulation using Deep Learning,Audio Manipulation,https://github.com/google-research/sound-separation
 PyDub,Manipulate audio with a simple and easy high level interface,Audio Manipulation,https://github.com/jiaaro/pydub
+PythonAudioEffects,"A Python library that can apply: darth vader, echo, radio, robotic, and ghost effects to audio samples. ",Audio Manipulation,https://github.com/nxbyte/PythonAudioEffects
+pytorch/audio,"Data manipulation and transformation for audio signal processing, powered by PyTorch",Audio Manipulation,https://github.com/pytorch/audio
 simpleaudio,Playback and recording functionality,Audio Manipulation,https://github.com/hamiltron/py-simple-audio
 SoundDevice,Play and record audio without resorting to C libraries,Audio Manipulation,https://github.com/spatialaudio/python-sounddevice
 soundfile,Read and write sound files,Audio Manipulation,https://github.com/bastibe/SoundFile
