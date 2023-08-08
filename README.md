@@ -125,3 +125,11 @@ A curated list of Python tools, libraries, and resources for audio and music pro
 - [Python-musical](https://github.com/wybiral/python-musical): Python module for procedural music creation. 
 - [WaveGAN](https://github.com/chrisdonahue/wavegan): Generative model for raw audio
 
+## Tutorials
+
+- [A Simple Guide to Audio Manipulation with Pydub for Musicians](https://www.omnitonal.com/a-simple-guide-to-audio-manipulation-with-pydub-for-musicians/): Covers merging tracks, introducing effects, and managing silences through simple code instructions.
+- [An introduction to libROSA for working with audio](https://iq.opengenus.org/introduction-to-librosa/): Advanced librosa tutorial covering timeline plotting, spectrograms, time-stretching, remixing.
+- [Introduction to librosa: A Powerful Tool for Audio Engineers](https://www.omnitonal.com/introduction-to-librosa-a-powerful-tool-for-audio-engineers/): nan
+- [PyDub: Working with wav files in Python](https://www.geeksforgeeks.org/working-with-wav-files-in-python-using-pydub/): This article demonstrates installation and various PyDub operations with code examples.
+- [Visualizing Sounds Using Librosa Machine Learning Library!](https://www.analyticsvidhya.com/blog/2021/06/visualizing-sounds-librosa/): Covers graph creation using librosa and matplotlib
+
