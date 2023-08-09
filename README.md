@@ -67,6 +67,7 @@ A curated list of Python tools, libraries, and resources for audio and music pro
 - [DALI](https://github.com/gabolsgabs/DALI): Dataset of lyrics and audio with time alignments
 - [DEAM](https://cvml.unige.ch/databases/DEAM/): MediaEval Affective Impact of Movies Task dataset for music emotion recognition
 - [FMA](https://github.com/mdeff/fma): Free Music Archive dataset for music analysis
+- [hsmusic](https://github.com/Didayolo/hsmusic): Huge symbolic music dataset
 - [IRMAS](https://www.upf.edu/web/mtg/irmas): Instrument recognition in musical audio signals
 - [Jamendo Audio Tagging](https://github.com/MTG/mtg-jamendo-dataset): Dataset for multi-label audio tagging
 - [MAESTRO](https://magenta.tensorflow.org/datasets/maestro): MIDI dataset for training music generation models
@@ -76,6 +77,7 @@ A curated list of Python tools, libraries, and resources for audio and music pro
 - [NSynth](https://magenta.tensorflow.org/datasets/nsynth): Large-scale and high-quality dataset of annotated musical notes
 - [Open MIC](https://research.atspotify.com/publications/openmic-2018-an-open-dataset-for-multiple-instrument-recognition/): Open Music Instrument Classification challenge dataset
 - [RWC Music Database](https://staff.aist.go.jp/m.goto/RWC-MDB/): Musical instrument sound, genre, rhythm databases
+- [symbolic-music-datasets](https://github.com/wayne391/symbolic-music-datasets): Symbolic music datasets
 - [The Million Song Dataset](http://millionsongdataset.com/): Massive collection of audio features and metadata
 
 ## Music Theory and Composition
@@ -129,14 +131,14 @@ A curated list of Python tools, libraries, and resources for audio and music pro
 
 ## Tutorials
 
-### PyDub
-
-- [A Simple Guide to Audio Manipulation with Pydub for Musicians](https://www.omnitonal.com/a-simple-guide-to-audio-manipulation-with-pydub-for-musicians/): Covers merging tracks, introducing effects, and managing silences through simple code instructions.
-- [PyDub: Working with wav files in Python](https://www.geeksforgeeks.org/working-with-wav-files-in-python-using-pydub/): This article demonstrates installation and various PyDub operations with code examples.
-
 ### librosa
 
 - [An introduction to libROSA for working with audio](https://iq.opengenus.org/introduction-to-librosa/): Advanced librosa tutorial covering timeline plotting, spectrograms, time-stretching, remixing.
 - [Introduction to librosa: A Powerful Tool for Audio Engineers](https://www.omnitonal.com/introduction-to-librosa-a-powerful-tool-for-audio-engineers/): 
 - [Visualizing Sounds Using Librosa Machine Learning Library!](https://www.analyticsvidhya.com/blog/2021/06/visualizing-sounds-librosa/): Covers graph creation using librosa and matplotlib
+
+### PyDub
+
+- [A Simple Guide to Audio Manipulation with Pydub for Musicians](https://www.omnitonal.com/a-simple-guide-to-audio-manipulation-with-pydub-for-musicians/): Covers merging tracks, introducing effects, and managing silences through simple code instructions.
+- [PyDub: Working with wav files in Python](https://www.geeksforgeeks.org/working-with-wav-files-in-python-using-pydub/): This article demonstrates installation and various PyDub operations with code examples.
 

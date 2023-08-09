@@ -51,6 +51,7 @@ Beatport EDM Key,Dataset for electronic dance music tracks and their musical key
 DALI,Dataset of lyrics and audio with time alignments,Datasets,Music,https://github.com/gabolsgabs/DALI
 DEAM,MediaEval Affective Impact of Movies Task dataset for music emotion recognition,Datasets,Music,https://cvml.unige.ch/databases/DEAM/
 FMA,Free Music Archive dataset for music analysis,Datasets,Music,https://github.com/mdeff/fma
+hsmusic,Huge symbolic music dataset,Datasets,Music,https://github.com/Didayolo/hsmusic
 IRMAS,Instrument recognition in musical audio signals,Datasets,Music,https://www.upf.edu/web/mtg/irmas
 Jamendo Audio Tagging,Dataset for multi-label audio tagging,Datasets,Music,https://github.com/MTG/mtg-jamendo-dataset
 MAESTRO,MIDI dataset for training music generation models,Datasets,Music,https://magenta.tensorflow.org/datasets/maestro
@@ -60,6 +61,7 @@ Musdb18,Dataset for music source separation,Datasets,Music,https://sigsep.github
 NSynth,Large-scale and high-quality dataset of annotated musical notes,Datasets,Music,https://magenta.tensorflow.org/datasets/nsynth
 Open MIC,Open Music Instrument Classification challenge dataset,Datasets,Music,https://research.atspotify.com/publications/openmic-2018-an-open-dataset-for-multiple-instrument-recognition/
 RWC Music Database,"Musical instrument sound, genre, rhythm databases",Datasets,Music,https://staff.aist.go.jp/m.goto/RWC-MDB/
+symbolic-music-datasets,Symbolic music datasets,Datasets,Music,https://github.com/wayne391/symbolic-music-datasets
 The Million Song Dataset,Massive collection of audio features and metadata,Datasets,Music,http://millionsongdataset.com/
 Abjad,Abjad is a Python API for building LilyPond files. Use Abjad to make PDFs of music notation,Music Theory and Composition,,https://github.com/Abjad/abjad
 AthenaCL,"AthenaCL is an algorithmic composition tool by Christopher Ariza. This is a Python 3 fork of it, since the original codebase is no longer maintained.",Music Theory and Composition,,https://github.com/ales-tsurko/athenaCL
@@ -101,8 +103,8 @@ PySynth,Simple music synthesizer written in Python,Synthesis and Generation,,htt
 Python-audio,Jupyter notebooks about audio signal processing with Python,Synthesis and Generation,,https://github.com/mgeier/python-audio
 Python-musical,Python module for procedural music creation. ,Synthesis and Generation,,https://github.com/wybiral/python-musical
 WaveGAN,Generative model for raw audio,Synthesis and Generation,,https://github.com/chrisdonahue/wavegan
-A Simple Guide to Audio Manipulation with Pydub for Musicians,"Covers merging tracks, introducing effects, and managing silences through simple code instructions.",Tutorials,PyDub,https://www.omnitonal.com/a-simple-guide-to-audio-manipulation-with-pydub-for-musicians/
 An introduction to libROSA for working with audio,"Advanced librosa tutorial covering timeline plotting, spectrograms, time-stretching, remixing.",Tutorials,librosa,https://iq.opengenus.org/introduction-to-librosa/
 Introduction to librosa: A Powerful Tool for Audio Engineers,,Tutorials,librosa,https://www.omnitonal.com/introduction-to-librosa-a-powerful-tool-for-audio-engineers/
-PyDub: Working with wav files in Python,This article demonstrates installation and various PyDub operations with code examples.,Tutorials,PyDub,https://www.geeksforgeeks.org/working-with-wav-files-in-python-using-pydub/
 Visualizing Sounds Using Librosa Machine Learning Library!,Covers graph creation using librosa and matplotlib,Tutorials,librosa,https://www.analyticsvidhya.com/blog/2021/06/visualizing-sounds-librosa/
+A Simple Guide to Audio Manipulation with Pydub for Musicians,"Covers merging tracks, introducing effects, and managing silences through simple code instructions.",Tutorials,PyDub,https://www.omnitonal.com/a-simple-guide-to-audio-manipulation-with-pydub-for-musicians/
+PyDub: Working with wav files in Python,This article demonstrates installation and various PyDub operations with code examples.,Tutorials,PyDub,https://www.geeksforgeeks.org/working-with-wav-files-in-python-using-pydub/
