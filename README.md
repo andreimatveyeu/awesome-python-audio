@@ -122,7 +122,7 @@ A curated list of Python tools, libraries, and resources for audio and music pro
 - [Mido](https://github.com/mido/mido): MIDI objects for Python
 - [musicautobot](https://github.com/bearpelican/musicautobot): Music generation with transformers
 - [Nsynth](https://github.com/tensorflow/magenta/tree/master/magenta/models/nsynth): Neural audio synthesis model
-- [Pippi](https://github.com/hecanjog/pippi): Computer music composition library
+- [Pippi](https://git.sr.ht/~hecanjog/pippi): Computer music composition library
 - [pyfluidsynth](https://github.com/nwhitehead/pyfluidsynth): Python bindings for FluidSynth, a software synthesizer for audio signals from SoundFonts
 - [PySynth](https://github.com/mdoege/PySynth): Simple music synthesizer written in Python
 - [Python-audio](https://github.com/mgeier/python-audio): Jupyter notebooks about audio signal processing with Python
