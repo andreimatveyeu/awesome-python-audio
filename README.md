@@ -138,6 +138,5 @@ A curated list of Python tools, libraries, and resources for audio and music pro
 
 ### PyDub
 
-- [A Simple Guide to Audio Manipulation with Pydub for Musicians](https://www.omnitonal.com/a-simple-guide-to-audio-manipulation-with-pydub-for-musicians/): Covers merging tracks, introducing effects, and managing silences through simple code instructions.
 - [PyDub: Working with wav files in Python](https://www.geeksforgeeks.org/working-with-wav-files-in-python-using-pydub/): This article demonstrates installation and various PyDub operations with code examples.
 
