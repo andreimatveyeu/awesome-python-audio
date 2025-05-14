@@ -97,7 +97,7 @@ Magenta,"Machine learning for the creative process, including music synthesis",S
 Mido,MIDI objects for Python,Synthesis and Generation,,https://github.com/mido/mido
 musicautobot,Music generation with transformers,Synthesis and Generation,,https://github.com/bearpelican/musicautobot
 Nsynth,Neural audio synthesis model,Synthesis and Generation,,https://github.com/tensorflow/magenta/tree/master/magenta/models/nsynth
-Pippi,Computer music composition library,Synthesis and Generation,,https://github.com/hecanjog/pippi
+Pippi,Computer music composition library,Synthesis and Generation,,https://git.sr.ht/~hecanjog/pippi
 pyfluidsynth,"Python bindings for FluidSynth, a software synthesizer for audio signals from SoundFonts",Synthesis and Generation,,https://github.com/nwhitehead/pyfluidsynth
 PySynth,Simple music synthesizer written in Python,Synthesis and Generation,,https://github.com/mdoege/PySynth
 Python-audio,Jupyter notebooks about audio signal processing with Python,Synthesis and Generation,,https://github.com/mgeier/python-audio
