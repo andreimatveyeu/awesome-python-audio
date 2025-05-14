@@ -1,0 +1,5 @@
+#!/bin/sh
+set -e
+NAME=github.com/andreimatveyeu/awesome-python-audio:latest
+docker build --network=host -t $NAME -f docker/Dockerfile .
+

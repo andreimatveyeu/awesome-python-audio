@@ -1,0 +1,12 @@
+#!/bin/sh
+NAME=github.com/andreimatveyeu/awesome-python-audio:latest
+
+docker run --rm -it \
+    --name awesome-python-audio \
+    -u $(id -u):$(id -g) \
+    --network=host \
+    -v /etc/passwd:/etc/passwd:ro \
+    -v /etc/group:/etc/group:ro \
+    -v $(pwd):/home/user \
+    -w /home/user \
+    $NAME /usr/bin/python3 $@
