@@ -134,7 +134,6 @@ A curated list of Python tools, libraries, and resources for audio and music pro
 ### librosa
 
 - [An introduction to libROSA for working with audio](https://iq.opengenus.org/introduction-to-librosa/): Advanced librosa tutorial covering timeline plotting, spectrograms, time-stretching, remixing.
-- [Introduction to librosa: A Powerful Tool for Audio Engineers](https://www.omnitonal.com/introduction-to-librosa-a-powerful-tool-for-audio-engineers/): 
 - [Visualizing Sounds Using Librosa Machine Learning Library!](https://www.analyticsvidhya.com/blog/2021/06/visualizing-sounds-librosa/): Covers graph creation using librosa and matplotlib
 
 ### PyDub

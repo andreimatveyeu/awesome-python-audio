@@ -104,7 +104,6 @@ Python-audio,Jupyter notebooks about audio signal processing with Python,Synthes
 Python-musical,Python module for procedural music creation. ,Synthesis and Generation,,https://github.com/wybiral/python-musical
 WaveGAN,Generative model for raw audio,Synthesis and Generation,,https://github.com/chrisdonahue/wavegan
 An introduction to libROSA for working with audio,"Advanced librosa tutorial covering timeline plotting, spectrograms, time-stretching, remixing.",Tutorials,librosa,https://iq.opengenus.org/introduction-to-librosa/
-Introduction to librosa: A Powerful Tool for Audio Engineers,,Tutorials,librosa,https://www.omnitonal.com/introduction-to-librosa-a-powerful-tool-for-audio-engineers/
 Visualizing Sounds Using Librosa Machine Learning Library!,Covers graph creation using librosa and matplotlib,Tutorials,librosa,https://www.analyticsvidhya.com/blog/2021/06/visualizing-sounds-librosa/
 A Simple Guide to Audio Manipulation with Pydub for Musicians,"Covers merging tracks, introducing effects, and managing silences through simple code instructions.",Tutorials,PyDub,https://www.omnitonal.com/a-simple-guide-to-audio-manipulation-with-pydub-for-musicians/
 PyDub: Working with wav files in Python,This article demonstrates installation and various PyDub operations with code examples.,Tutorials,PyDub,https://www.geeksforgeeks.org/working-with-wav-files-in-python-using-pydub/
