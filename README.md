@@ -33,6 +33,7 @@ A curated list of Python tools, libraries, and resources for audio and music pro
 - [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis): Audio feature extraction classification segmentation and visualization
 - [Pyo](https://github.com/belangeo/pyo): Python DSP module with synthesis and analysis capabilities
 - [scipy.signal](https://docs.scipy.org/doc/scipy/reference/signal.html): Signal processing routines for SciPy
+- [sounddifff](https://github.com/jaimefgdev/sounddifff): Diff two audio files or folders (loudness spectrum clipping) and check loudness targets in CI
 - [timeside](https://github.com/Parisson/TimeSide): Framework for audio analysis imaging transcoding and streaming
 
 ## Audio Embeddings & Representations

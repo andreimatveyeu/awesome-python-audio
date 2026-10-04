@@ -25,6 +25,7 @@ nnAudio,GPU audio processing using PyTorch neural networks,Analysis & Feature Ex
 pyAudioAnalysis,Audio feature extraction classification segmentation and visualization,Analysis & Feature Extraction,,https://github.com/tyiannak/pyAudioAnalysis
 Pyo,Python DSP module with synthesis and analysis capabilities,Analysis & Feature Extraction,,https://github.com/belangeo/pyo
 scipy.signal,Signal processing routines for SciPy,Analysis & Feature Extraction,,https://docs.scipy.org/doc/scipy/reference/signal.html
+sounddifff,Diff two audio files or folders (loudness spectrum clipping) and check loudness targets in CI,Analysis & Feature Extraction,,https://github.com/jaimefgdev/sounddifff
 timeside,Framework for audio analysis imaging transcoding and streaming,Analysis & Feature Extraction,,https://github.com/Parisson/TimeSide
 CLAP (LAION),Contrastive Language-Audio Pretraining for zero-shot audio classification,Audio Embeddings & Representations,,https://github.com/LAION-AI/CLAP
 CLAP (Microsoft),Learning audio concepts from natural language supervision,Audio Embeddings & Representations,,https://github.com/microsoft/CLAP
