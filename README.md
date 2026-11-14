@@ -176,4 +176,5 @@ A curated list of Python tools, libraries, and resources for audio and music pro
 - [Whisper tutorial](https://github.com/openai/whisper/discussions/categories/guides): Using OpenAI Whisper for speech-to-text
 - [AudioCraft tutorial](https://github.com/facebookresearch/audiocraft/blob/main/docs/MUSICGEN.md): Getting started with MusicGen and AudioGen
 - [Hugging Face Audio Course](https://huggingface.co/learn/audio-course): Comprehensive course on audio ML with transformers
+- [FM-1 Emulator](https://fm1-emulator.atst.tools/) : Free browser emulator for the M-VAVE FM-1 pocket synth; plays stock and 200+ community firmwares
 
