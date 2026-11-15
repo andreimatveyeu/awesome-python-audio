@@ -162,6 +162,7 @@ A curated list of Python tools, libraries, and resources for audio and music pro
 - [Musdb18](https://sigsep.github.io/datasets/musdb.html): Dataset for music source separation
 - [MusicCaps](https://www.kaggle.com/datasets/googleai/musiccaps): Dataset of music clips with rich text descriptions
 - [MusicNet](https://zenodo.org/record/5120004): Dataset of classical music with instrument labels
+- [No Stairs Please](https://nostairsplease.com/): Every small stage in all 50 states, and who books it ([venues](https://nostairsplease.com/venues), [MCP](https://nostairsplease.com/mcp))
 - [NSynth](https://magenta.tensorflow.org/datasets/nsynth): Large-scale dataset of annotated musical notes
 - [Open MIC](https://zenodo.org/record/1432913): Open Music Instrument Classification dataset
 - [RWC Music Database](https://staff.aist.go.jp/m.goto/RWC-MDB/): Musical instrument sound genre and rhythm databases
